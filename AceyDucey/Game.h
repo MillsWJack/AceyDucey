@@ -18,6 +18,5 @@ public:
 private:
 	unsigned int m_PlayerCash;
 	bool m_IsPlaying;
-
 };
 
